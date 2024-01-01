@@ -1,24 +1,5 @@
-/*
-Rithvika Kathroju 
-10/18/2021
-ICS 3U1-01
-
-Unit 4 Assignment - Snakes and Ladders Simulator
-Description: 
-    Create a snakes and ladders game. Player starts at square #1 and rolls two dice. They will then move that 
-    many spots to the next space. They get to move up the ladder to the space where the ladder ends. If the player
-    lands on a snake’s head, then they have to move down the snake to where the tail sends to their new spot. The 
-    player continuously rolls the two dice until they reach or exceed 100.
-
-
-FEATURES 
-    - As the game progresses, everytime you land on an even number the user will win a ticket, everytime a user lands on a snake
-        they have the option to spend two tickets to escape the snake and stay at their current spot instead of having to go down
-    - Asks the user if they would like to play again or exit the game
-    - Included visuals such as emojis and borders to ensure that code is organized and visually appealing
-    - Prompts the user to press enter after each turn/time the dice are rolled
-    - Used procedures and functions as well as arrays and global variables to make code efficent, code within the main metheod is short
-*/
+// Rithvika Kathroju 
+// 10/18/2021
 
 //import the Scanner class in the util package within java in order to allow user input 
 import java.util.Scanner;
